@@ -8,4 +8,4 @@ Projeto final da disciplina **INF420**, desenvolvido pelos estudantes **João Vi
 
 ## Código
 
-[Link para o Colab](https://colab.research.google.com/drive/11QSkyDtEqZzkA9rcT7EXd86cB53RlSpa?authuser=2#scrollTo=t5nockJofJ3_)
+[Link para o Colab](https://colab.research.google.com/drive/11QSkyDtEqZzkA9rcT7EXd86cB53RlSpa?usp=sharing)
