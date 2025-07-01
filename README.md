@@ -1,5 +1,5 @@
 # Um experimento de Ciência Aberta: Uso de aprendizado de máquina na criação de conteúdos sobre desinformação para divulgação científica
-Projeto final de INF420
+Projeto final da disciplina **INF420**, desenvolvido pelos estudantes **João Vitor de Melo**, **Matheus Antony**, **Raianny Amorim** e **Ricardo Ferreira**.
 
 ## Metodologia
 
